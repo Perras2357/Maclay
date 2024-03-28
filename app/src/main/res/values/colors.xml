@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="maclay">#63003C</color>
+    <color name="maclayTexte">#D6DBDF</color>
 </resources>
